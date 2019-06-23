@@ -3,8 +3,8 @@ from lxml import etree
 s = requests.Session()
 post_url = 'http://www.doki8.com/wp-login.php'
 post_data ={
-    'log':'chopper212',
-    'pwd': 'jafrUh-hytgiz-dedda2',
+    'log':'请更换',
+    'pwd': '请更换',
     'captcha': '1234',
     'wp-submit': '登录',
     'redirect_to': 'http://www.doki8.com/drama',
